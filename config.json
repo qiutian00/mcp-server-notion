@@ -1,0 +1,7 @@
+{
+  "port": 3000,
+  "notionApiKey": "your-notion-api-key",
+  "databaseId": "your-notion-database-id",
+  "tagProperty": "Tags",
+  "contentProperty": "Content"
+}
